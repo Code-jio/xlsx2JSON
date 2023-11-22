@@ -1,4 +1,4 @@
-# xlsx2JSON
+# xlsx2json
 
 无聊 做个小工具
 
